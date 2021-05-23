@@ -1,0 +1,24 @@
+Division: East
+Quarter #1 Sales: $402
+Quarter #2 Sales: $1294
+Quarter #3 Sales: $2349
+Quarter #4 Sales: $231
+
+Division: West
+Quarter #1 Sales: $232
+Quarter #2 Sales: $12412
+Quarter #3 Sales: $422
+Quarter #4 Sales: $2445
+
+Division: North
+Quarter #1 Sales: $231
+Quarter #2 Sales: $1232
+Quarter #3 Sales: $244
+Quarter #4 Sales: $23
+
+Division: South
+Quarter #1 Sales: $2345
+Quarter #2 Sales: $56
+Quarter #3 Sales: $57
+Quarter #4 Sales: $5757
+

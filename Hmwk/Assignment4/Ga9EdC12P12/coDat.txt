@@ -1,0 +1,44 @@
+Corporate Sales Data
+Total Yearly Corporate Sales: $136
+
+Total Corporate Sales for Each Quarter:
+    Quarter #1: $28
+    Quarter #2: $32
+    Quarter #3: $36
+    Quarter #4: $40
+
+Highest Quarter for Corporation: Quarter #4 - $40
+Lowest Quarter for Corporation: Quarter #1 - $28
+
+Division: East
+    Quarter #1 Sales: $1
+    Quarter #2 Sales: $2
+    Quarter #3 Sales: $3
+    Quarter #4 Sales: $4
+    Division Yearly Sales: $10
+    Average Quarterly Sales of Division: $2
+
+Division: West
+    Quarter #1 Sales: $5
+    Quarter #2 Sales: $6
+    Quarter #3 Sales: $7
+    Quarter #4 Sales: $8
+    Division Yearly Sales: $26
+    Average Quarterly Sales of Division: $6
+
+Division: North
+    Quarter #1 Sales: $9
+    Quarter #2 Sales: $10
+    Quarter #3 Sales: $11
+    Quarter #4 Sales: $12
+    Division Yearly Sales: $42
+    Average Quarterly Sales of Division: $10
+
+Division: South
+    Quarter #1 Sales: $13
+    Quarter #2 Sales: $14
+    Quarter #3 Sales: $15
+    Quarter #4 Sales: $16
+    Division Yearly Sales: $58
+    Average Quarterly Sales of Division: $14
+
