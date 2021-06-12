@@ -1,0 +1,27 @@
+Blackjack Rules
+  - The overall premise is to beat the dealer's hand without going over 21.
+  - To start the game you must place a bet at minimum $20 and at maximum $2000.
+  - Certain cards are worth different values. Face cards (K,Q,J) are worth 10.
+    Aces are worth 1 OR 11 (Whichever adds to a better hand). The rest of
+    cards are worth the number that they display.
+  - Both you and the dealer start with two cards, however one of the
+    dealer's cards is hidden until the end.
+  - At each play you have one of two options. First, you can 'Hit' which
+    is just asking for another card. OR you can 'Stand' which
+    signifies holding your total and ending your turn.
+  - If the value of your cards go over 21 you bust, and the dealer wins
+    regardless of their hand. Thus, you lose all the money that you bet.
+  - If you are dealt 21 from the start, you got a blackjack! Therefore, you
+    automatically win back 1.5x the value of your bet.
+  - The dealer will hit until his/her cards total 17 or higher. Both your hands
+    will be compared, and if you beat the dealer's hand you win back 1.5x the
+    value of your original bet. Else, you lose the value of your original bet.
+  - NOTE: In order to simplify the game, this version does not deal with
+    splits or doubles.
+Card Display Format
+  - Each card will be printed encapsulated by brackets [].
+  - First, the card name {A(Ace),2,3,4,5,6,7,8,9,T(10),J(Jack),Q(Queen),K(King)}
+    will be printed.
+  - Then a character representative of the card's suit {C(Clubs),H(Hearts),
+    D(Diamonds),S(Spades)} will be printed in the bracket.
+  - Example: [ A C ] represents the card "Ace of Clubs"
